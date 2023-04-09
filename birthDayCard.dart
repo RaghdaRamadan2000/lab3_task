@@ -23,7 +23,7 @@ class _BirthDayCardState extends State<BirthDayCard> {
               children: [
                 Container(
                   height: 500,
-                  child: Image(image: AssetImage('images/thh.png')),
+                  child: Image(image: AssetImage('images/Birthday.png')),
                 ),
                 Container(
                     child: Text(
